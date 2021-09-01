@@ -13,6 +13,12 @@ const Index = () => (
           <p>
             *** Project Decription Here ***
           </p>
+          <p>
+            *** Project Decription Here ***
+          </p>
+          <p>
+            *** Project Decription Here ***
+          </p>
         </div>
       </header>
     </article>
