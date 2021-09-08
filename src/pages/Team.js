@@ -11,10 +11,10 @@ const Team = () => (
         <h2 data-testid="heading" href={`#aboutteam`}>The Team</h2>
         <div>
           <h3 style={{textDecoration:"underline"}}>Alex Ho</h3>
-          <h6>Email:</h6>
-          <p>hoaq@live.unc.edu</p>
           <h6>Roles: </h6>
           <p>Project Manager, Design Lead</p>
+          <h6>Email:</h6>
+          <p>hoaq@live.unc.edu</p>
         </div>
         <div>
           <h3 style={{textDecoration:"underline"}}>Katrina Jagadeesan</h3>
