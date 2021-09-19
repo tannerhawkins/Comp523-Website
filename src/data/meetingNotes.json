@@ -7,6 +7,10 @@
         {
             "date": "9/7",
             "notes": "Started some of the dev for the site\r\nThank you Jamie for starting designs\r\nWe\u2019re thinking of using google for sign in using their email function for security\r\nOther options: email and password, etc.\r\nIntegrate with facebook and ways for other people without google accounts to log in\r\nFirebase\r\nWhich wireframe? \r\nJamie creating sign in, login, video and quiz upload page designs\r\nQuiz details\r\nMultiple choice question\r\nScroll through page for all questions\r\nShow score after submission\r\nJust quiz, don\u2019t add video player to refer back for information\r\n"
+        },
+        {
+            "date": "9/14",
+            "notes": "Gave updates on how design was coming.\r\nGave updates on clickable prototype\r\nGave updates on the beginning of development\r\nAgreed to bi-weekly meetings until development picks up."
         }
     ],
     "mentor": [
@@ -17,6 +21,10 @@
         {
             "date": "9/8",
             "notes": "Change branch naming conventions, doesn\u2019t matter how long they are, no special characters (# and \/)\r\nUpdate A2 project management doc to include front end and back end labels\r\nSourcetree to visually view branch management\r\nGithub Powerup to link trello cards directly to Github\r\nGood practice to work on command line but not necessary if it doesn\u2019t work for you\r\nGet in the habit of doing pull requests and code reviews even for small code changes\r\n2 weeks from now, need to reschedule mentor meeting\r\nReschedule to 9:15am on the 22nd"
+        },
+        {
+            "date": "9/15",
+            "notes": "Checked in how how the client was communicating with us\r\nDanny shared project management tips and tools with us"
         }
     ],
     "team": [
@@ -27,6 +35,10 @@
         {
             "date": "9/8",
             "notes": "Talked about Git PR conventions\r\nWorked on Figma designs and talked more about site design and functionality"
+        },
+        {
+            "date": "9/15",
+            "notes": "No meeting - Career fair"
         }
     ]
  }

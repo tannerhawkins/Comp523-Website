@@ -18,11 +18,13 @@ const Deliverables = () => (
             <br />
             <a href="https://trello.com/b/4nNKBU7E/ancient-path-adventures" target="_blank">Trello Board (Not Public)</a>
           </div>
-          <br />
           <div id="A3">
             <h1>A3</h1>
             <a href="https://docs.google.com/document/d/1PwwCmWCmW8LwELKLi3nnJBy8uHPHIHD4AveVrGhQAhM/edit?usp=sharing" target="_blank">User Stories</a>
-            <br />
+          </div>
+          <div id="A4">
+            <h1>A4</h1>
+            <a href="https://www.figma.com/file/YLEBbme9ObkOJce7odGgNL/COMP-523-TEAM-draft?node-id=0%3A1" target="_blank">Clickable Prototype</a>
           </div>
         </div>
       </header>
