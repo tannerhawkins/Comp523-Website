@@ -26,6 +26,10 @@ const Deliverables = () => (
             <h1>A4</h1>
             <a href="https://www.figma.com/file/YLEBbme9ObkOJce7odGgNL/COMP-523-TEAM-draft?node-id=0%3A1" target="_blank">Clickable Prototype</a>
           </div>
+          <div id="A5">
+            <h1>A5</h1>
+            <a href="https://docs.google.com/document/d/1KW-e0Sv6BXNhevC3NhjRL9yJNLLhPKCf0FbBOyaoFXY/edit?usp=sharing">APPLES Reflection</a>
+          </div>
         </div>
       </header>
 

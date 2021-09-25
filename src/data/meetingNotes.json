@@ -25,6 +25,10 @@
         {
             "date": "9/15",
             "notes": "Checked in how how the client was communicating with us\r\nDanny shared project management tips and tools with us"
+        },
+        {
+            "date": "9/22",
+            "notes": "Gave basic client updates and began talking about development practices"
         }
     ],
     "team": [
@@ -39,6 +43,10 @@
         {
             "date": "9/15",
             "notes": "No meeting - Career fair"
+        },
+        {
+            "date": "9/22",
+            "notes": "Worked on adding trello cards for development\r\nBegan talking through development process"
         }
     ]
  }
