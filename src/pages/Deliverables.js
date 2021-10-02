@@ -28,15 +28,15 @@ const Deliverables = () => (
           </div>
           <div id="A5">
             <h1>A5</h1>
-            <a href="https://docs.google.com/document/d/1KW-e0Sv6BXNhevC3NhjRL9yJNLLhPKCf0FbBOyaoFXY/edit?usp=sharing">APPLES Reflection</a>
+            <a href="https://docs.google.com/document/d/1KW-e0Sv6BXNhevC3NhjRL9yJNLLhPKCf0FbBOyaoFXY/edit?usp=sharing" target="_blank">APPLES Reflection</a>
           </div>
           <div id="A6">
             <h1>A6</h1>
-            <a href="https://docs.google.com/document/d/1A_judnnSh99EP8TB0vLDQeRYbizPc3_EPZ5PSroOOi0/edit?usp=sharing">Application Architecture</a>
+            <a href="https://docs.google.com/document/d/1A_judnnSh99EP8TB0vLDQeRYbizPc3_EPZ5PSroOOi0/edit?usp=sharing" target="_blank">Application Architecture</a>
           </div>
           <div id="A7">
             <h1>A7</h1>
-            <a href="https://docs.google.com/presentation/d/1NrMkBQM_o7tQsAnEy7AK6Jq20YtF2SHbs3ElE6equC0/edit?usp=sharing">Architecture Diagram</a>
+            <a href="https://docs.google.com/presentation/d/1NrMkBQM_o7tQsAnEy7AK6Jq20YtF2SHbs3ElE6equC0/edit?usp=sharing" target="_blank">Architecture Diagram</a>
           </div>
         </div>
       </header>
