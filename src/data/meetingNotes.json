@@ -11,6 +11,10 @@
         {
             "date": "9/14",
             "notes": "Gave updates on how design was coming.\r\nGave updates on clickable prototype\r\nGave updates on the beginning of development\r\nAgreed to bi-weekly meetings until development picks up."
+        },
+        {
+            "date": "9/29",
+            "notes": "Overall module progress: progress bar based on number of students who have completed it \r\nAssigned modules: ?? Not every student in a class? would be assigned the same module?\r\nNeed to add assign module page\r\nAR components factored into websites, linked to different educational components? video is a refresher from AR or is just in the module? leaning towards video being just for quiz but functionality in video being in AR component too\r\n"
         }
     ],
     "mentor": [
@@ -29,6 +33,10 @@
         {
             "date": "9/22",
             "notes": "Gave basic client updates and began talking about development practices"
+        },
+        {
+            "date": "9/29",
+            "notes": "Gave basic updates - was a short meeting"
         }
     ],
     "team": [
