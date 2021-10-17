@@ -15,6 +15,10 @@
         {
             "date": "9/29",
             "notes": "Overall module progress: progress bar based on number of students who have completed it \r\nAssigned modules: ?? Not every student in a class? would be assigned the same module?\r\nNeed to add assign module page\r\nAR components factored into websites, linked to different educational components? video is a refresher from AR or is just in the module? leaning towards video being just for quiz but functionality in video being in AR component too\r\n"
+        },
+        {
+            "date": "10/14",
+            "notes": "Talked through new client requests and how they would be implemented"
         }
     ],
     "mentor": [
@@ -37,6 +41,14 @@
         {
             "date": "9/29",
             "notes": "Gave basic updates - was a short meeting"
+        },
+        {
+            "date": "10/6",
+            "notes": "Short updates on walking skeleton"
+        },
+        {
+            "date": "10/13",
+            "notes": "Showed off some of walking skeleton, got tips about future jobs in the triangle area"
         }
     ],
     "team": [
@@ -55,6 +67,16 @@
         {
             "date": "9/22",
             "notes": "Worked on adding trello cards for development\r\nBegan talking through development process"
+        },
+        {
+            
+            "date": "9/29",
+            "notes": "Began Development"
+        },
+        {
+            
+            "date": "10/14",
+            "notes": "Finished Walking Skeleton"
         }
     ]
  }
