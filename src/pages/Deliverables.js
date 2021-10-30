@@ -45,6 +45,7 @@ const Deliverables = () => (
           <div id="videos">
             <h1>Videos</h1>
             <a href="https://youtube.com" target="_blank">10/31</a>
+          </div>
           <div id="A9">
             <h1>A9</h1>
             <a href="https://docs.google.com/presentation/d/1fzmiAMTy66MJ1VM8p-Fo4ryq5dkVzhUrRfqa7Z5Gp3Q/edit?usp=sharing" target="_blank">Midterm Presentation</a>
