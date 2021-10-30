@@ -42,6 +42,10 @@ const Deliverables = () => (
             <h1>A8</h1>
             <a href="https://apa-walking-skeleton.herokuapp.com/home" target="_blank">Walking Skeleton</a>
           </div>
+          <div id="videos">
+            <h1>Videos</h1>
+            <a href="https://youtube.com" target="_blank">10/31</a>
+          </div>
         </div>
       </header>
 
