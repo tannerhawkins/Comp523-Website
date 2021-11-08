@@ -45,10 +45,16 @@ const Deliverables = () => (
           <div id="videos">
             <h1>Videos</h1>
             <a href="https://youtu.be/7WRlfLOx2FE" target="_blank">10/31</a>
+            <br />
+            <a href="https://youtu.be/7WRlfLOx2FE" target="_blank">11/7</a>
           </div>
           <div id="A9">
             <h1>A9</h1>
             <a href="https://docs.google.com/presentation/d/1fzmiAMTy66MJ1VM8p-Fo4ryq5dkVzhUrRfqa7Z5Gp3Q/edit?usp=sharing" target="_blank">Midterm Presentation</a>
+          </div>
+          <div id="testing">
+            <h1>A11 - Test Coverage</h1>
+            <a href="/coverage" target="_blank">Test Coverage Report</a>
           </div>
         </div>
       </header>

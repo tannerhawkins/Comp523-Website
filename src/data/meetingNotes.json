@@ -19,6 +19,10 @@
         {
             "date": "10/14",
             "notes": "Talked through new client requests and how they would be implemented"
+        },
+        {
+            "date": "10/28",
+            "notes": "Demoed new changes"
         }
     ],
     "mentor": [
@@ -53,6 +57,10 @@
         {
             "date": "10/20",
             "notes": "Talked more about relationship with clients and talked through next steps"
+        },
+        {
+            "date": "10/27",
+            "notes": "Talked about testing strategies and how to make site responsive"
         }
     ],
     "team": [

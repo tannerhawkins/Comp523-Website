@@ -13,6 +13,7 @@ const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
 const Journal = lazy(() => import('./pages/Journal'));
 const Deliverables = lazy(() => import('./pages/Deliverables'));
+const Coverage = lazy(() => import('./pages/Coverage'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -21,6 +22,7 @@ const App = () => (
         <Route exact path="/home" component={Index} />
         <Route path="/team" component={Team} />
         <Route path="/journal" component={Journal} />
+        <Route path="/coverage" component={Coverage} />
         <Route path="/deliverables" component={Deliverables} />
         <Route component={NotFound} status={404} />
       </Switch>
