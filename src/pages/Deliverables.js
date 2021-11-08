@@ -55,6 +55,7 @@ const Deliverables = () => (
           <div id="testing">
             <h1>A11 - Test Coverage</h1>
             <a href="/coverage" target="_blank">Test Coverage Report</a>
+            <a href="https://docs.google.com/document/d/11Wow1kRJaoUaroIHxpfPniXE_unYVAL_TelIx4F8mVo/edit?usp=sharing" target="_blank">Interpretation</a>
           </div>
         </div>
       </header>
