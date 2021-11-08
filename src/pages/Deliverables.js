@@ -1,10 +1,12 @@
 import React from 'react';
+import { useHistory } from 'react-router';
 
 import Main from '../layouts/Main';
 
 
-const Deliverables = () => (
-  <Main
+const Deliverables = () => {
+  const history = useHistory();
+  return <Main
     title="Deliverables"
     description="List of Deliverables from this project."
   >
@@ -54,7 +56,7 @@ const Deliverables = () => (
           </div>
           <div id="testing">
             <h1>A11 - Test Coverage</h1>
-            <a href="/coverage" target="_blank">Test Coverage Report</a>
+            <a onClick={() => history.push("/coverage")} target="_blank">Test Coverage Report</a>
             <br />
             <a href="https://docs.google.com/document/d/11Wow1kRJaoUaroIHxpfPniXE_unYVAL_TelIx4F8mVo/edit?usp=sharing" target="_blank">Interpretation</a>
           </div>
@@ -63,6 +65,6 @@ const Deliverables = () => (
 
     </article>
   </Main>
-);
+};
 
 export default Deliverables;
