@@ -5,8 +5,8 @@
     "main.css": "/Comp523-Website/static/css/main.b0736f38.chunk.css",
     "main.js": "/Comp523-Website/static/js/main.7ad93b60.chunk.js",
     "main.js.map": "/Comp523-Website/static/js/main.7ad93b60.chunk.js.map",
-    "runtime-main.js": "/Comp523-Website/static/js/runtime-main.40135d78.js",
-    "runtime-main.js.map": "/Comp523-Website/static/js/runtime-main.40135d78.js.map",
+    "runtime-main.js": "/Comp523-Website/static/js/runtime-main.36797e64.js",
+    "runtime-main.js.map": "/Comp523-Website/static/js/runtime-main.36797e64.js.map",
     "static/js/3.eba32dda.chunk.js": "/Comp523-Website/static/js/3.eba32dda.chunk.js",
     "static/js/3.eba32dda.chunk.js.map": "/Comp523-Website/static/js/3.eba32dda.chunk.js.map",
     "static/js/4.8a3dda6f.chunk.js": "/Comp523-Website/static/js/4.8a3dda6f.chunk.js",
@@ -15,8 +15,8 @@
     "static/js/5.65de1524.chunk.js.map": "/Comp523-Website/static/js/5.65de1524.chunk.js.map",
     "static/js/6.d7c85d8c.chunk.js": "/Comp523-Website/static/js/6.d7c85d8c.chunk.js",
     "static/js/6.d7c85d8c.chunk.js.map": "/Comp523-Website/static/js/6.d7c85d8c.chunk.js.map",
-    "static/js/7.baecd7a9.chunk.js": "/Comp523-Website/static/js/7.baecd7a9.chunk.js",
-    "static/js/7.baecd7a9.chunk.js.map": "/Comp523-Website/static/js/7.baecd7a9.chunk.js.map",
+    "static/js/7.0ed74763.chunk.js": "/Comp523-Website/static/js/7.0ed74763.chunk.js",
+    "static/js/7.0ed74763.chunk.js.map": "/Comp523-Website/static/js/7.0ed74763.chunk.js.map",
     "static/js/8.da25922e.chunk.js": "/Comp523-Website/static/js/8.da25922e.chunk.js",
     "static/js/8.da25922e.chunk.js.map": "/Comp523-Website/static/js/8.da25922e.chunk.js.map",
     "static/js/9.dc099153.chunk.js": "/Comp523-Website/static/js/9.dc099153.chunk.js",
@@ -31,7 +31,7 @@
     "static/media/APA Logo.30b22401.png": "/Comp523-Website/static/media/APA Logo.30b22401.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.40135d78.js",
+    "static/js/runtime-main.36797e64.js",
     "static/js/3.eba32dda.chunk.js",
     "static/css/main.b0736f38.chunk.css",
     "static/js/main.7ad93b60.chunk.js"
