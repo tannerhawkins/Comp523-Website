@@ -407,5 +407,4 @@ module.exports = `
         <script src="sorter.js"></script>
         <script src="block-navigation.js"></script>
     </body>
-</html>`
-    
+</html>`;

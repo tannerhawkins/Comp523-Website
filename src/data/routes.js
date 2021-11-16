@@ -2,23 +2,23 @@ const routes = [
   {
     index: true,
     label: "Ancient Path Adventures",
-    path: '/home',
+    path: "/home",
   },
   {
-    label: 'Project',
-    path: '/home',
+    label: "Project",
+    path: "/home",
   },
   {
-    label: 'Team',
-    path: '/team',
+    label: "Team",
+    path: "/team",
   },
   {
-    label: 'Journal',
-    path: '/journal',
+    label: "Journal",
+    path: "/journal",
   },
   {
-    label: 'Deliverables',
-    path: '/deliverables',
+    label: "Deliverables",
+    path: "/deliverables",
   },
 ];
 

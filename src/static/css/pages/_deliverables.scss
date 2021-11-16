@@ -1,20 +1,19 @@
 /* Deliverables */
 
 #deliverables {
+  .link-container h4 {
+    text-decoration: none;
+    border-bottom: none;
+    display: inline-flex;
+  }
 
-	.link-container h4 {
-		text-decoration:none;
-		border-bottom: none;
-		display: inline-flex;
-	}
+  a {
+    &:hover {
+      cursor: pointer;
+    }
+  }
 
-	a {
-		&:hover {
-			cursor: pointer;
-		}
-	}
-
-	div {
-		padding-bottom: 20px;
-	}
+  div {
+    padding-bottom: 20px;
+  }
 }
