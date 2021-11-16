@@ -1,2 +1,2 @@
 (this.webpackJsonpComp523Site=this.webpackJsonpComp523Site||[]).push([[9],{49:function(e,t,n){"use strict";n.r(t);n(0);var o=n(8),c=n(13),s=n(1);t.default=()=>Object(s.jsx)(c.b,{children:Object(s.jsxs)("div",{className:"not-found",children:[Object(s.jsx)(c.a,{title:"404 Not Found",children:Object(s.jsx)("meta",{name:"description",content:"The content you are looking for cannot be found."})}),Object(s.jsx)("h1",{"data-testid":"heading",children:"Page Not Found"}),Object(s.jsxs)("p",{children:["Return ",Object(s.jsx)(o.b,{to:"/home",children:"home"}),"."]})]})})}}]);
-//# sourceMappingURL=9.1e11bc99.chunk.js.map
+//# sourceMappingURL=9.dc099153.chunk.js.map
