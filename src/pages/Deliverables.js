@@ -97,6 +97,10 @@ const Deliverables = () => {
               <a href="https://youtu.be/aq6R8KW6e6s" target="_blank">
                 11/15
               </a>
+              <br />
+              <a href="https://youtu.be/CDSp80ux3CA" target="_blank">
+                11/22
+              </a>
             </div>
             <div id="A9">
               <h1>A9</h1>
