@@ -139,6 +139,12 @@ const Deliverables = () => {
                 Client Oriented Overview
               </a>
             </div>
+            <div id="A14">
+              <h1>A14</h1>
+              <a href="https://docs.google.com/document/d/1xixUmCLeBiGWwZYMxyG4MdPPHZZ11auYYmocFjUxvFQ/edit?usp=sharing" target="_blank">
+                APPLES Reflection 2
+              </a>
+            </div>
           </div>
         </header>
       </article>
