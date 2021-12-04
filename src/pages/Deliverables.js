@@ -146,8 +146,8 @@ const Deliverables = () => {
               </a>
             </div>
             <div id="Final">
-              <h1>A13</h1>
-              <a href="https://www.canva.com/design/DAExVDwwmwI/pTdn0sav7nrSgXI5HEBn3Q/edit">
+              <h1>Final</h1>
+              <a href="https://www.canva.com/design/DAExVDwwmwI/pTdn0sav7nrSgXI5HEBn3Q/edit" target="_blank">
                 Final Presentation
               </a>
             </div>
