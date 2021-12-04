@@ -139,6 +139,12 @@ const Deliverables = () => {
                 Client Oriented Overview
               </a>
             </div>
+            <div id="Final">
+              <h1>A13</h1>
+              <a href="https://www.canva.com/design/DAExVDwwmwI/pTdn0sav7nrSgXI5HEBn3Q/edit">
+                Final Presentation
+              </a>
+            </div>
           </div>
         </header>
       </article>
